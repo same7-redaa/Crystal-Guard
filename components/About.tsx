@@ -55,7 +55,7 @@ const About: React.FC = () => {
           <div ref={videoRef} className={`order-1 md:order-2 scroll-reveal-right ${videoVisible ? 'revealed' : ''}`}>
             <div className="rounded-2xl overflow-hidden relative aspect-square shadow-2xl shadow-gray-900/10 border-2 border-red-600 transition-all duration-300 hover:scale-105 hover:shadow-3xl group">
               <video 
-                src="/vedio.mp4" 
+                src="/about-video.mp4" 
                 autoPlay 
                 loop 
                 muted 

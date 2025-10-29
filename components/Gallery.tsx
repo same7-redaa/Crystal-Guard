@@ -10,22 +10,22 @@ const Gallery: React.FC = () => {
 
   const galleryImages = [
     {
-      src: "/أفلام شفافة فائقة الوضوح.png",
+      src: "/gallery1.png",
       title: t('gallery.items.kitchen'),
       description: "حماية شفافة للأسطح"
     },
     {
-      src: "/أفلام لامعة عاكسة.png",
+      src: "/gallery2.jpg",
       title: t('gallery.items.dining'),
       description: "لمعان طبيعي محسن"
     },
     {
-      src: "/أفلام مطفية أنيقة.png",
+      src: "/gallery3.jpg",
       title: t('gallery.items.bathroom'),
       description: "مظهر مطفي راقي"
     },
     {
-      src: "/أفلام مقاومة للحرارة العالية.png",
+      src: "/product1.png",
       title: t('gallery.items.coffee'),
       description: "حماية من الحرارة العالية"
     },

@@ -103,25 +103,25 @@ const Products: React.FC = () => {
       icon: <EyeIcon />,
       title: t('products.items.ultraClear.title'),
       description: t('products.items.ultraClear.description'),
-      imageUrl: "/أفلام شفافة فائقة الوضوح.png"
+      imageUrl: "/product1.png"
     },
     {
       icon: <GlossyIcon />,
       title: t('products.items.glossy.title'),
       description: t('products.items.glossy.description'),
-      imageUrl: "/أفلام لامعة عاكسة.png"
+      imageUrl: "/product2.png"
     },
     {
       icon: <StarIcon />,
       title: t('products.items.matte.title'),
       description: t('products.items.matte.description'),
-      imageUrl: "/أفلام مطفية أنيقة.png"
+      imageUrl: "/product3.png"
     },
     {
       icon: <FireIcon />,
       title: t('products.items.heatResistant.title'),
       description: t('products.items.heatResistant.description'),
-      imageUrl: "/أفلام مقاومة للحرارة العالية.png"
+      imageUrl: "/product4.png"
     }
   ];
 
