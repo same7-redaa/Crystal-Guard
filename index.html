@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Crystal Guard | Protect the Beauty of Your Marble</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@300;400&display=swap" rel="stylesheet">
+    <!-- Zain Font for Arabic -->
+    <link href="https://fonts.googleapis.com/css2?family=Zain:wght@200;300;400;700;800;900&display=swap" rel="stylesheet">
+    <style>
+      html {
+        scroll-behavior: smooth;
+      }
+      body {
+        font-family: 'Inter', sans-serif;
+        background-color: #FFFFFF;
+        color: #000000;
+      }
+      
+      /* Arabic Fonts */
+      [dir="rtl"] body {
+        font-family: 'Zain', sans-serif;
+      }
+      
+      [dir="rtl"] .font-title {
+        font-family: 'Zain', serif;
+      }
+      
+      [dir="rtl"] .font-body {
+        font-family: 'Zain', sans-serif;
+      }
+      
+      /* English Fonts */
+      [dir="ltr"] .font-title {
+        font-family: 'Playfair Display', serif;
+      }
+      
+      [dir="ltr"] .font-body {
+        font-family: 'Inter', sans-serif;
+      }
+      
+      /* Default for fallback */
+      .font-title {
+        font-family: 'Playfair Display', serif;
+      }
+      .font-body {
+        font-family: 'Inter', sans-serif;
+      }
+      
+      /* RTL Support */
+      [dir="rtl"] {
+        text-align: right;
+      }
+      
+      [dir="rtl"] .text-center {
+        text-align: center !important;
+      }
+      
+      [dir="rtl"] .text-left {
+        text-align: right;
+      }
+      
+      [dir="rtl"] .text-right {
+        text-align: left;
+      }
+      
+      /* RTL Spacing */
+      [dir="rtl"] .space-x-2 > * + * {
+        margin-right: 0.5rem;
+        margin-left: 0;
+      }
+      
+      [dir="rtl"] .space-x-3 > * + * {
+        margin-right: 0.75rem;
+        margin-left: 0;
+      }
+      
+      [dir="rtl"] .space-x-4 > * + * {
+        margin-right: 1rem;
+        margin-left: 0;
+      }
+      
+       .parallax-bg {
+        background-image: url('https://images.unsplash.com/photo-1581553683227-21f48d28a38c?q=80&w=2070&auto=format&fit=crop');
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+    </style>
+  <script type="importmap">
+{
+  "imports": {
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/",
+    "react/": "https://aistudiocdn.com/react@^19.2.0/",
+    "react": "https://aistudiocdn.com/react@^19.2.0"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>

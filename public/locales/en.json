@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Our Films",
+    "gallery": "Gallery",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Crystal Guard",
+    "subtitle": "Innovative transparent protection that preserves the beauty of your luxury surfaces for years to come",
+    "cta": "Discover Our Solutions"
+  },
+  "about": {
+    "title": "About Crystal Guard",
+    "description1": "Pioneers in advanced protective film technology, we deliver innovative solutions to protect marble, granite, and natural stone surfaces from scratches, stains, and damage from daily wear and tear.",
+    "description2": "We believe luxury deserves the finest protection. Our mission is to preserve the original beauty of your surfaces while extending their lifespan and ensuring their lasting elegance."
+  },
+  "features": {
+    "title": "Why Choose Crystal Guard",
+    "subtitle": "Excellence and innovation without compromise for luxury spaces",
+    "items": {
+      "invisible": "Absolute Transparency",
+      "resistant": "Superior UV & Heat Resistance",
+      "maintenance": "Simple & Effective Care",
+      "installation": "Expert Professional Installation"
+    }
+  },
+  "products": {
+    "title": "Our Protective Film Collection",
+    "subtitle": "Choose the perfect protection tailored to your specific needs",
+    "items": {
+      "ultraClear": {
+        "title": "Ultra Clear Transparent Films",
+        "description": "Advanced technology providing invisible protection with absolute transparency, preserving the natural beauty and original appearance of marble without any impact on look or shine."
+      },
+      "glossy": {
+        "title": "Glossy Reflective Films",
+        "description": "Advanced technology that enhances the natural shine of surfaces, providing strong protection while adding brilliant gloss that highlights the beauty of marble and natural stones."
+      },
+      "matte": {
+        "title": "Elegant Matte Films",
+        "description": "Modern non-reflective design that reduces glare and fingerprint marks, providing a sophisticated matte appearance with superior protection against all types of damage."
+      },
+      "heatResistant": {
+        "title": "High Heat Resistant Films",
+        "description": "Exceptional protection against heat and damage from hot cookware and appliances, specially designed for kitchen countertops and high-temperature areas."
+      }
+    },
+    "viewDetails": "Explore More"
+  },
+  "gallery": {
+    "title": "Before & After",
+    "subtitle": "See the transformative effect of Crystal Guard protection",
+    "before": "BEFORE",
+    "after": "AFTER",
+    "items": {
+      "kitchen": "Kitchen Countertop",
+      "dining": "Dining Table",
+      "bathroom": "Bathroom Vanity",
+      "coffee": "Coffee Table", 
+      "marble": "Marble Floor"
+    }
+  },
+  "contact": {
+    "title": "Get a Quote",
+    "subtitle": "Request a free consultation or demo",
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "phone": "Your Phone",
+      "message": "Your Message",
+      "submit": "Send Request"
+    }
+  },
+  "footer": {
+    "tagline": "We Preserve Luxury, We Protect Beauty",
+    "description": "Crystal Guard - your ideal partner in protecting luxury surfaces. We provide the finest innovative protective solutions with exceptional quality guarantee and outstanding service.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact Info",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "addressText": "Riyadh, Saudi Arabia",
+    "copyright": "© 2025 Crystal Guard. All Rights Reserved."
+  }
+}
